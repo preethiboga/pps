@@ -1,0 +1,15 @@
+employee ID:181356
+employee name:preethi
+designation:student
+qualification:btech
+salary:10000
+experience:0
+researchwork:none
+adress:98
+city:karimnagar
+phone:1234567890
+hobbies:watchingmovies
+strengths:positivity
+
+hobbies:preethi
+strengths:cjskyfiucdjbx
